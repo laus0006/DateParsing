@@ -1,0 +1,13 @@
+Reflection:
+
+It was interesting to hear about how Bob was from the US, and his background in uni, which gave me an understanding of how proficient a programmer he was. Knowing the person you are going to be working with in this kind of work is important, in order to work out the best way of progressing. 
+
+I think that the pair programming concept was quite useful in many ways. Since the other member didn't really know how to code in java, through no fault of his own, but had some experience with c++ and other languages, he found it fairly similar. Because of this, it was useful for him to be the strategic driver person, since I knew the api fairly well. I found this same advantage to also be a disadvantage when it came time to swap stations, as I tried to find ways of parsing the dates by creating algorithms, but at the same time having to help someone understand java. This interrupted my thought processes and made it harder to concentrate. We both came up with different ways of parsing the dates, using different parts of the apis available, which was presumably because the separation of driver and navigator broke down towards the end. This slowed us down a bit.
+
+For these reasons, I believe that peer programming would be most useful for programming quickly and comprehensively when two people with similar skill levels are working together, and most useful for teaching when two people have differing skill levels, or experience with the current program. This would be a good strategy for introducing new team members to an existing project, since someone is always on hand to assist. 
+
+Even if someone does not know know a specific programming language well, with prior programming experience it was easier for us both to spot potential logic bugs in our algorithms, and propose good solutions. Pair programming is also useful for keeping on task, if either participant has the will to keep going. I found this to be true, since we go a fair few of the dates parsed over the session, though I'm assuming that if both didn't want to be there, nothing would get done.
+
+One other thing I noticed was that the room was very loud. So loud that it was hard to hear Bob talking. If I was going to recommend pair programming, it would be a good idea for the pairs should not all be in the same room, since talking is very necessary to the process.
+
+Overall, I found the experience valuable, and a decent introduction into the concept of pair programming. It was much better to implement the concept rather than only hearing about it through a couple of lecture slides, and, for me, turned it from something theoretical into something that I can actually apply later on.
